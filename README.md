@@ -1,5 +1,5 @@
 
-My name is Bruno, 26yo. I'm a bioinformatics Master's student from Brazil.
+My name is Bruno, 27yo. I'm a bioinformatics Master's student from Brazil.
 <br/>I'm graduated in Biomedical Science and in addition to doing a master's degree (@ UNESP_FMVA).
 <br/>I'm currently taking a course in systems development :computer:(@ ETEC_Aracatuba).
 <br/>I'm trying to learn new technologies to better integrate my knowledge in biomedical sciences with software development and data analysis.
