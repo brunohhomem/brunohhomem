@@ -1,5 +1,5 @@
 
-My name is Bruno, 27yo.
+My name is Bruno, 28yo.
 <br/>I have bachelor's degree in Biomedical Science.
 <br/>I'm learning and improving in web development right now.
 <br/> 💬  &nbsp; About me: Technology enthusiast :floppy_disk:; D&D lover :game_die: ; addicted reader :book:.
