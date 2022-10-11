@@ -16,5 +16,4 @@ Hello there!
 <br/>
 <div align="center">
   <h4>Kaizen · 改善</h4>
-  <sub>becoming one percent better everyday.</sub>
 </div>
