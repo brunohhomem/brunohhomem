@@ -1,6 +1,6 @@
 Hello there!
 
-</br>My name is Bruno.
+</br>My name is Bruno,
 </br>I study computer engineering and work as a junior web developer. 
 </br>I study daily to improve my skills. 
 </br>I am currently studying python and reading some books.
