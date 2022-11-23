@@ -8,7 +8,7 @@ Hello there!
 <br/>I have bachelor's degree in Biomedical Science.
 <br/>Currently I work with low-code (GeneXus).
 <br/>
-<br/>I have a lazy kitten and I'm a great cook.
+<br/>I have two lazy kitten and I'm a great cook.
 <br/>I like to discuss technology, movies and games.
 <br/>You can find me on social media: <br/>
 ![Twitter URL](https://img.shields.io/twitter/url?label=%40brunohhomem&style=social&url=https%3A%2F%2Ftwitter.com%2Fbrunohhomem)
