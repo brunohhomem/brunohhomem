@@ -1,20 +1,9 @@
 Hello there!
 
-</br>My name is Bruno,
-</br>I study computer engineering and work as a junior web developer. 
-</br>I study daily to improve my skills. 
-</br>I am currently studying python and reading some books.
-<br/>
-<br/>I have bachelor's degree in Biomedical Science.
-<br/>Currently I work with low-code (GeneXus).
-<br/>
-<br/>I have two lazy kitten and I'm a great cook.
-<br/>I like to discuss technology, movies and games.
-<br/>You can find me on social media: <br/>
-![Twitter URL](https://img.shields.io/twitter/url?label=%40brunohhomem&style=social&url=https%3A%2F%2Ftwitter.com%2Fbrunohhomem)
-[![Linkedin Badge](https://img.shields.io/badge/-BrunoHHomem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/brunohhomem/)
-</br>
-<br/>
-<div align="center">
-  <h4>Kaizen · 改善</h4>
-</div>
+Sou um desenvolvedor de sistemas com 2 anos e meio de experiência, graduado em Biomedicina (2017) e atualmente cursando Engenharia da Computação. Possuo sólidos conhecimentos em Desenvolvimento Web, com destaque em JavaScript, HTML e CSS, além de experiência em Java e Spring.
+
+Tenho habilidades em Banco de Dados, em especial SQL e MySQL, e experiência em desenvolvimento de sistemas Back-End. Atualmente, trabalho com a plataforma low-code GeneXus.
+
+Também possuo experiência com Git, GitHub, Jira, Kanban e em trabalhar em regime de home office. Possuo inglês intermediário e busco sempre me manter atualizado em novas tecnologias e ferramentas para aprimorar minhas habilidades técnicas e linguísticas.
+
+Se você procura um desenvolvedor dedicado, comprometido e colaborativo, entre em contato comigo!
