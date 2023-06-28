@@ -9,4 +9,3 @@ Também possuo experiência com Git, GitHub, Jira, Kanban e em trabalhar em regi
 Se você procura um desenvolvedor dedicado, comprometido e colaborativo, entre em contato comigo!
 
 
-![snake gif](https://github.com/brunohhomem/brunohhomem/blob/output/github-contribution-grid-snake.svg)
