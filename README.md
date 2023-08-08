@@ -7,4 +7,3 @@ Tenho habilidades em Banco de Dados, em especial SQL e MySQL, e experiência em 
 Também possuo experiência com Git, GitHub, Jira, Kanban e em trabalhar em regime de home office. Possuo inglês intermediário e busco sempre me manter atualizado em novas tecnologias e ferramentas para aprimorar minhas habilidades técnicas e linguísticas.
 
 Se você procura um desenvolvedor dedicado, comprometido e colaborativo, entre em contato comigo!
-.
