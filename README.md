@@ -13,7 +13,6 @@
 </div>
 
 &nbsp;
-
 ## My Skills
 
 #### Main Stack:
