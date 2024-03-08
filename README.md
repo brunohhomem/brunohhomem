@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
-<img src="https://github.com/brunohhomem/brunohhomem/blob/master/java.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Java badge">
+<img src="https://github.com/brunohhomem/brunohhomem/blob/master/java.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Java badge">
 
 #### Studying in this moment:
 
