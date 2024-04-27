@@ -1,4 +1,6 @@
-<img align="center" style="margin-bottom:50px" width=100% src="https://github.com/brunohhomem/brunohhomem/blob/master/banner.png" />
+<a href="https://brunohhomem.tech/" target="_blank">
+ <img align="center" style="margin-bottom:50px" width=100% src="https://github.com/brunohhomem/brunohhomem/blob/master/banner.png" />
+</a>
 &nbsp;&nbsp;
 
 <p align="center">Success is not delivering a feature. Success is learning how to solve a customer’s problem - Lean Startup <br><br> From backend development using Java/Spring to frontend development using Angular, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>
