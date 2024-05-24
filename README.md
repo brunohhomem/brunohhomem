@@ -49,10 +49,10 @@
 ## Stats:
 
 <div align="center" style="margin-bottom:100">
-  <a href="https://streak-stats.demolab.com?user=brunohhomem&theme=prussian&date_format=j%20M%5B%20Y%5D&card_width=300&card_height=200&hide_total_contributions=true">
+  <a href="https://brunohhomem.tech/" target="_blank">
   <img src="https://streak-stats.demolab.com?user=brunohhomem&theme=prussian&date_format=j%20M%5B%20Y%5D&card_width=300&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
  </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=brunohhomem&theme=prussian" align="left">
+  <a href="https://brunohhomem.tech/" target="_blank">
    <img height=200 src="https://github-readme-stats.vercel.app/api?username=brunohhomem&theme=prussian" />
  </a>
 </div>
