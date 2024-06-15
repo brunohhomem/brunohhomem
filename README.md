@@ -46,7 +46,7 @@
  <a href = "brunohhomem.tech" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
 
-## Stats:
+## Stats: 
 
 <div align="center" style="margin-bottom:100">
   <a href="https://brunohhomem.tech/" target="_blank">
