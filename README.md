@@ -1,7 +1,6 @@
 <a href="https://brunohhomem.tech/" target="_blank">
  <img align="center" style="margin-bottom:50px" width=100% src="https://github.com/brunohhomem/brunohhomem/blob/master/banner.png" />
 </a>
-
 &nbsp;
 &nbsp;
 
