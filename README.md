@@ -1,5 +1,5 @@
 <a href="https://brunohhomem.tech/" target="_blank">
- <img align="center" style="margin-bottom:50px" width=100% src="https://github.com/brunohhomem/brunohhomem/blob/master/banner.png" />
+ <img align="center" style="margin-bottom:50px" width=100% src="https://github.com/brunohhomem/brunohhomem/blob/master/images/banner.png" />
 </a>
 
 &nbsp;
@@ -17,7 +17,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://github.com/brunohhomem/brunohhomem/blob/master/java.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Java badge">
+<img src="https://github.com/brunohhomem/brunohhomem/blob/master/images/java.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Java badge">
 
 #### Studying in this moment:
 
