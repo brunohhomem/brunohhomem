@@ -5,7 +5,7 @@
 &nbsp;
 &nbsp;
 
-<p align="center">Success is not delivering a feature. Success is learning how to solve a customer’s problem - Lean Startup <br><br> From backend development using Java/Spring to frontend development using React.js, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>
+<p align="center">"As mais impressionantes façanhas humanas são na realidade o agregado de inumeráveis elementos isolados e cada um dos quais em certo sentido, nada tem de extraordinário. A excelencia é a repetição de comportamentos que nada têm de extraordinário quando olhados isoladamente."</p>
 
 ## My Skills
 #### Main Stack:
