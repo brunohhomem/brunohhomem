@@ -36,3 +36,16 @@ Transition to fullstack with a focus on backend, gain expertise in system archit
 		</tr>
 	</table>
 </div>
+
+### 📈 Stats: 
+
+<div align="center" style="margin-bottom:100">
+  <a href="https://brunohhomem.tech/" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=brunohhomem&theme=prussian&date_format=j%20M%5B%20Y%5D&card_width=300&card_height=200&hide_total_contributions=true" alt="GitHub Streak" />
+ </a>
+  <a href="https://brunohhomem.tech/" target="_blank">
+   <img height=200 src="https://github-readme-stats.vercel.app/api?username=brunohhomem&theme=prussian" />
+ </a>
+</div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b5394&height=120&section=footer"/>
