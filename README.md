@@ -47,5 +47,16 @@ Transition to fullstack with a focus on backend, gain expertise in system archit
    <img height=200 src="https://github-readme-stats.vercel.app/api?username=brunohhomem&theme=prussian" />
  </a>
 </div>
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/brunohhomem/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b5394&height=120&section=footer"/>
