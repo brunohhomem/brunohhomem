@@ -2,6 +2,17 @@
 
 I'm a software developer with a passion for building robust backend systems and exploring front-end technologies. Currently, I'm mastering **Java** with **Spring Boot** and advancing my skills in **React** with **Next.js** and **TypeScript**. I enjoy solving complex problems, learning new tools, and continuously improving my development practices.
 
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/brunohhomem/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
 ### 📚 Learning: 
 - Cloud (AWS, CI/CD)
 - System Design
@@ -47,16 +58,5 @@ Transition to fullstack with a focus on backend, gain expertise in system archit
    <img height=200 src="https://github-readme-stats.vercel.app/api?username=brunohhomem&theme=prussian" />
  </a>
 </div>
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/brunohhomem/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b5394&height=120&section=footer"/>
