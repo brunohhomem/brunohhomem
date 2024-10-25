@@ -2,17 +2,6 @@
 
 I'm a software developer with a passion for building robust backend systems and exploring front-end technologies. Currently, I'm mastering **Java** with **Spring Boot** and advancing my skills in **React** with **Next.js** and **TypeScript**. I enjoy solving complex problems, learning new tools, and continuously improving my development practices.
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/brunohhomem/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
-
 ### 📚 Learning: 
 - Cloud (AWS, CI/CD)
 - System Design
