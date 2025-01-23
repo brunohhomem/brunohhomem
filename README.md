@@ -1,16 +1,4 @@
-## 💻 Fullstack Developer | Focus on Backend (Java) & Frontend (React)
-
-
-I'm a software developer with a passion for building robust backend systems and exploring front-end technologies. Currently, I'm mastering **Java** with **Spring Boot** and advancing my skills in **React** with **Next.js** and **TypeScript**. I enjoy solving complex problems, learning new tools, and continuously improving my development practices.
-
-### 📚 Learning: 
-- Cloud (AWS, CI/CD)
-- System Design
-- Testing & Security
-- Design Patterns, SOLID, Clean Code
-
-### 🎯 Goals:
-Transition to fullstack with a focus on backend, gain expertise in system architecture, and contribute to impactful projects.
+## 💻 Fullstack Developer |
 
 ### 🧰 Stack and Tools:
 <div align="center">
